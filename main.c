@@ -1,6 +1,6 @@
 /* 
  * File:   main.c
- * Author: Tecnicos
+ * Author: Lionel Ponce
  * Title: LCD 16x2
  * Created on 6 de noviembre de 2015, 18:36
  */
